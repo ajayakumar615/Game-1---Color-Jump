@@ -752,7 +752,7 @@ a:focus, a:active {
 }
 .start-game .how-to-play .bar.bar-3 {
   height: 150px;
-  background: #9174f5;
+  background: #815FF8;
 }
 .start-game .how-to-play .section-2 .bar {
   cursor: url(https://greghub.github.io/coloron/public/svg/cursor.svg), pointer;
@@ -798,6 +798,7 @@ a:focus, a:active {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 30px;
+  padding-top: 30px;
 }
 .stop-game .score-container h4 {
   color: #fff;
